@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.express as px
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix, classification_report, accuracy_score, roc_curve, auc
 import seaborn as sns
